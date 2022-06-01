@@ -22,7 +22,7 @@ bot.launch()
 let get = async () => {
     try {
         
-        let result = await fetch("https://hostservice.raja.ir/Api/ServiceProvider/TrainListEq?q=tSkRVKu3MxjGXIp9O+WacEtELJ+00eHxOpEIlsDGQQy7n3W9zoiXwN1Tc1GQp+QunznpJ/bb/0E/o3k6P4FAKCYt2GG/11rQCQv99UBhUs4=", {
+        let result = await fetch("https://hostservice.raja.ir/Api/ServiceProvider/TrainListEq?q=ywLVWzxYz2DPZn1+vZWcSk2GBragETsvwnPDhFnleR1Ep07YlsYII7jiZXOYXMm8PnRY2R3w+J/9m9wreg0RXakXbT1zI+5YAopkbbL27dk=", {
             "headers": {
                 "accept": "application/json, text/plain, */*",
                 "accept-language": "en-US,en;q=0.9,fa;q=0.8,ps;q=0.7,zh-CN;q=0.6,zh-TW;q=0.5,zh;q=0.4",
